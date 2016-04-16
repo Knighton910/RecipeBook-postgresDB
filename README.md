@@ -1,8 +1,12 @@
-This is a Recipe book with C.R.U.D functionalities 
+This is a Recipe book with C.R.U.D functionalities
 
-== 
- 
-Built from Nodejs & express 
-database Postgres
+A simplistic UI/UX experience.
 
-Built with Udemy
+==
+This application is running on *Expressjs* & *Postgresql* for the database
+![express-js](public/express.png)
+![express-js](public/postgresql-logo.png)
+
+
+
+-Built with Udemy
