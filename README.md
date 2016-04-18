@@ -11,6 +11,9 @@ A simplistic UI/UX experience.
 
 This application is running on *Expressjs* & *Postgresql* for the database
 
+==
+
+Database assembled with pgAdmin3
 
 
 
